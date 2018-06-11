@@ -3487,7 +3487,7 @@ var booleanAttributes = {
   autoplay: true,
   checked: true,
   controls: true,
-  default: true,
+  'default': true,
   defer: true,
   disabled: true,
   hidden: true,
